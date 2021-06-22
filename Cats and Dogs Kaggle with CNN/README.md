@@ -1,7 +1,7 @@
 <h3>Cats and Dogs Kaggle</h3>
 This code is targeted at one of the Kaggle competition that includes the Image Classification which 
 aims to develop a model that can correctly classify two classes i.e. Cats vs. Dogs.<br/>
-https://www.kaggle.com/chetankv/dogs-cats-images <br/><br/>
+https://www.kaggle.com/chetankv/dogs-cats-images/tasks?taskId=1225 <br/><br/>
 
 Here I have implemented a Convolutional Neural Network in order to classify the 
 images. The dataset is divided into two categories: Train and Test. The dataset can be found at <br/>
@@ -25,7 +25,7 @@ Dataset:
 
 The Model of the Convolutional Neural Network can be seen below.
 <p align="center">
-  <img src="Figures/CNN_Model.JPG" width="850" title="hover text">
+  <img src="Figures/CNN Model.JPG" width="450" title="hover text">
 </p>
 
 
