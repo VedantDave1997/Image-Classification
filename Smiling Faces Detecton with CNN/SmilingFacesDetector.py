@@ -125,7 +125,7 @@ for i in np.arange(0, L * W):
 plt.subplots_adjust(wspace=0.5)
 
 
-#---------------- VISUALISING THE RESULT ----------------#
+#---------------- GENERATING THE CONFUSION MATRIX ----------------#
 # Generating the Confusion Matrix
 cm = confusion_matrix(y_test, predicted_classes)
 plt.figure(figsize = (10,10))
