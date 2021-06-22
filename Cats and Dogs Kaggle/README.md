@@ -26,11 +26,11 @@ Dataset:
 As seen from the code, the images were provided as an input to the Inception Network after some specific
 transformations. The provided images can be seen here:
 <p align="center">
-  <img src="Figures/Cats_and_Dog_Images" width="350" title="hover text">
+  <img src="Figures/Cats_and_Dogs_Images.JPG" width="850" title="hover text">
 </p>
 
 After the Model is trained, the results from the Test can be seen below. The accuracy of the Model was
 92%.
 <p align="center">
-  <img src="Figures/Cats_and_Dog_Prediction" width="350" title="hover text">
+  <img src="Figures/Cats_and_Dogs_Prediction.JPG" width="850" title="hover text">
 </p>
